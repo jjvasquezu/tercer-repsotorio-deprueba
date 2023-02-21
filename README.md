@@ -1,2 +1,1 @@
-# tercer-repsotorio-deprueba
-este es mas prueba
+Esta es otra prueba de como hacer un repositorio desde la nube y como editarlo y clonarlo a mi pc
